@@ -32,7 +32,7 @@ void func_2(int plane)
     }
 }
 
-void * func_1(void *pVoid)
+void *func_1(void *pVoid)
 {
     //这里是子线程1
     // TODO
